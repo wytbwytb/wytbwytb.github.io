@@ -114,7 +114,7 @@ Zhange Zhang, Yuqing Ma, Yulong Wang, Shan He, **Tianbo Wang**, Siqi He, Jiakai 
 
 ### Early Publication
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/WEN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/WEN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Few-shot X-ray Prohibited Item Detection: A Benchmark and Weak-feature Enhancement Network](https://dl.acm.org/doi/abs/10.1145/3503161.3548075)

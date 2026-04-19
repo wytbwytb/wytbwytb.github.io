@@ -140,9 +140,9 @@ Renshuai Tao, Hainan Li, **Tianbo Wang**, Yanlu Wei, Yifu Ding, Bowei Jin, Hongp
 
 
 # 🎖 Honors and Awards
-- *2026.04* Bronze Medal, Physical AI Track, Autel Artificial Intelligence Competition.
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2022.06* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.04* Bronze Medal of Autel Artificial Intelligence Competition.
+- *2024.10* Outstanding Student Award of Beihang University.
+- *2022.06* Excellent Graduate of Beihang University. 
 
 # 📖 Educations
 - *2022.09 - now*, PhD student, Beihang University. 

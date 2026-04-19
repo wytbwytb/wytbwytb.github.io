@@ -123,6 +123,7 @@ Renshuai Tao, **Tianbo Wang**, Ziyang Wu, Cong Liu, Aishan Liu, Xianglong Liu
 [**Github**](https://github.com/wytbwytb/WEN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/WEN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -134,7 +135,7 @@ Renshuai Tao, Hainan Li, **Tianbo Wang**, Yanlu Wei, Yifu Ding, Bowei Jin, Hongp
 [**Github**](https://github.com/DIG-Beihang/PSN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-
+</div>
 
 
 # 🎖 Honors and Awards

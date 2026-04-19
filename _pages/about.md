@@ -25,31 +25,122 @@ I am a PhD student at Beihang University, supervised by <a href='https://xlliu-b
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+### 2026
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/AFTER.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[AFTER: Mitigating the Object Hallucination of LVLM via Adaptive Factual-Guided Activation Editing](https://arxiv.org/pdf/2601.01957)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Tianbo Wang**, Yuqing Ma, Kewei Liao, Zhange Zhang, Simin Li, Jinyang Guo, Xianglong Liu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Github**](https://github.com/wytbwytb/AFTER) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/QRAE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Query-Routed Activation Editing with Truth-hierarchical Preference Optimization](https://ojs.aaai.org/index.php/AAAI/article/view/40468)
+
+Kewei Liao\*, **Tianbo Wang\***(Equal Contribution), Yuqing Ma, Zhange Zhang, Zhicheng Geng, Xiaowei Zhao, Jiakai Wang, Xianglong Liu
+
+[**Github**](https://github.com/liaokewei/QRAE) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026</div><img src='images/CASE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CASE: Conflict-assessed Knowledge-sensitive Neuron Tuning for Lifelong Model Editing](https://dl.acm.org/doi/abs/10.1145/3774904.3792427)
+
+Zhange Zhang, Yuqing Ma, Yulong Wang, **Tianbo Wang**, Jiakai Wang, Simin Li, Xianglong Liu
+
+[**Github**](https://github.com/wytbwytb/AFTER) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+### 2025
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 Oral</div><img src='images/TAE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Token-Aware Editing of Internal Activations for Large Language Model Alignment](https://aclanthology.org/2025.emnlp-main.480/)
+
+**Tianbo Wang**, Yuqing Ma, Kewei Liao, Chengzhao Yang, Zhange Zhang, Jiakai Wang, Xianglong Liu
+
+[**Github**](https://github.com/wytbwytb/TAE) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCIS 2025</div><img src='images/SWEAR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Universal X-ray Security Inspection: A Benchmark and Stereoscopic-Aware Oriented Prohibited Item Detection Framework](https://link.springer.com/article/10.1007/s11432-024-4732-x)
+
+**Tianbo Wang**, Kewei Liao, Zhange Zhang, Yuqing Ma, Hongping Zhi, Aishan Liu, Ruihao Gong, Xianglong Liu
+
+[**Github**](https://github.com/wytbwytb/SWEAR) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 Spotlight</div><img src='images/CAKE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Conflict-Aware Knowledge Editing in the Wild: Semantic-Augmented Graph Representation for Unstructured Text](https://openreview.net/forum?id=wHm5J9uanV)
+
+Zhange Zhang, Zhicheng Geng, Yuqing Ma, **Tianbo Wang**, Kai Lv, Xianglong Liu
+
+[**Github**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/DRAG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Lexical Diversity-aware Relevance Assessment for Retrieval-Augmented Generation](https://link.springer.com/article/10.1007/s11432-024-4732-x)
+
+Zhange Zhang, Yuqing Ma, Yulong Wang, Shan He, **Tianbo Wang**, Siqi He, Jiakai Wang, Xianglong Liu
+
+[**Github**](https://github.com/Zhange21/DRAG) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+### Early Publication
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/DRAG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Few-shot X-ray Prohibited Item Detection: A Benchmark and Weak-feature Enhancement Network](https://dl.acm.org/doi/abs/10.1145/3503161.3548075)
+
+Renshuai Tao, **Tianbo Wang**, Ziyang Wu, Cong Liu, Aishan Liu, Xianglong Liu
+
+[**Github**](https://github.com/wytbwytb/WEN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/WEN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Exploring Endogenous Shift for Cross-domain Detection: A Large-scale Benchmark and Perturbation Suppression Network](https://ieeexplore.ieee.org/abstract/document/9878613/)
+
+Renshuai Tao, Hainan Li, **Tianbo Wang**, Yanlu Wei, Yifu Ding, Bowei Jin, Hongping Zhi，Xianglong Liu, Aishan Liu
+
+[**Github**](https://github.com/DIG-Beihang/PSN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.09 - now*, PhD student, Beihang University. 
+- *2018.09 - 2022.06*, Undergrad student, Beihang University.

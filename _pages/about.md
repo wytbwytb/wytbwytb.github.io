@@ -35,7 +35,7 @@ I am a PhD student at Beihang University, supervised by <a href='https://xlliu-b
 **Tianbo Wang**, Yuqing Ma, Kewei Liao, Zhange Zhang, Simin Li, Jinyang Guo, Xianglong Liu
 
 [**Github**](https://github.com/wytbwytb/AFTER) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- This paper proposes AFTER, a novel adaptive factual-guided activation editing approach to mitigate object hallucinations and language bias in Large Vision-Language Models. 
 </div>
 </div>
 
@@ -47,7 +47,7 @@ I am a PhD student at Beihang University, supervised by <a href='https://xlliu-b
 Kewei Liao\*, **Tianbo Wang\***(Equal Contribution), Yuqing Ma, Zhange Zhang, Zhicheng Geng, Xiaowei Zhao, Jiakai Wang, Xianglong Liu
 
 [**Github**](https://github.com/liaokewei/QRAE) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- This paper proposes QRAE, a novel query-routed activation editing framework to leverage query-specific semantics for adaptive hallucination mitigation in LLMs. 
 </div>
 </div>
 
@@ -58,8 +58,8 @@ Kewei Liao\*, **Tianbo Wang\***(Equal Contribution), Yuqing Ma, Zhange Zhang, Zh
 
 Zhange Zhang, Yuqing Ma, Yulong Wang, **Tianbo Wang**, Jiakai Wang, Simin Li, Xianglong Liu
 
-[**Github**](https://github.com/wytbwytb/AFTER) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Github**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This paper proposes CASE, a novel conflict-assessed knowledge-sensitive neuron tuning approach to address subspace allocation issues and editing conflicts in lifelong model editing.
 </div>
 </div>
 
@@ -72,7 +72,7 @@ Zhange Zhang, Yuqing Ma, Yulong Wang, **Tianbo Wang**, Jiakai Wang, Simin Li, Xi
 **Tianbo Wang**, Yuqing Ma, Kewei Liao, Chengzhao Yang, Zhange Zhang, Jiakai Wang, Xianglong Liu
 
 [**Github**](https://github.com/wytbwytb/TAE) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- This paper proposes TAE, a novel token-aware activation editing approach to utilize token-level alignment information for superior inference-time behavior mitigation in LLMs. 
 </div>
 </div>
 
@@ -84,7 +84,7 @@ Zhange Zhang, Yuqing Ma, Yulong Wang, **Tianbo Wang**, Jiakai Wang, Simin Li, Xi
 **Tianbo Wang**, Kewei Liao, Zhange Zhang, Yuqing Ma, Hongping Zhi, Aishan Liu, Ruihao Gong, Xianglong Liu
 
 [**Github**](https://github.com/wytbwytb/SWEAR) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- This paper proposes SWEAR, a novel stereoscopic-aware oriented detection framework to suppress background interference and improve prohibited item detection in oriented X-ray security inspection. 
 </div>
 </div>
 
@@ -96,7 +96,7 @@ Zhange Zhang, Yuqing Ma, Yulong Wang, **Tianbo Wang**, Jiakai Wang, Simin Li, Xi
 Zhange Zhang, Zhicheng Geng, Yuqing Ma, **Tianbo Wang**, Kai Lv, Xianglong Liu
 
 [**Github**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- This paper proposes CAKE, a novel conflict-aware knowledge editing framework to enable precise knowledge extraction and refinement from wild unstructured text in LLMs.
 </div>
 </div>
 
@@ -108,7 +108,7 @@ Zhange Zhang, Zhicheng Geng, Yuqing Ma, **Tianbo Wang**, Kai Lv, Xianglong Liu
 Zhange Zhang, Yuqing Ma, Yulong Wang, Shan He, **Tianbo Wang**, Siqi He, Jiakai Wang, Xianglong Liu
 
 [**Github**](https://github.com/Zhange21/DRAG) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- This paper proposes DRAG, a novel lexical diversity-aware relevance assessment method to achieve granular relevance analysis and improve document retrieval precision in RAG systems. 
 </div>
 </div>
 
@@ -122,7 +122,7 @@ Zhange Zhang, Yuqing Ma, Yulong Wang, Shan He, **Tianbo Wang**, Siqi He, Jiakai 
 Renshuai Tao, **Tianbo Wang**, Ziyang Wu, Cong Liu, Aishan Liu, Xianglong Liu
 
 [**Github**](https://github.com/wytbwytb/WEN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- This paper proposes WEN, a novel weak-feature enhancement network to overcome performance degradation caused by occlusion and color fading in few-shot X-ray prohibited item detection.
 </div>
 </div>
 
@@ -134,7 +134,7 @@ Renshuai Tao, **Tianbo Wang**, Ziyang Wu, Cong Liu, Aishan Liu, Xianglong Liu
 Renshuai Tao, Hainan Li, **Tianbo Wang**, Yanlu Wei, Yifu Ding, Bowei Jin, Hongping Zhi, Xianglong Liu, Aishan Liu
 
 [**Github**](https://github.com/DIG-Beihang/PSN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- This paper proposes PSN, a novel perturbation suppression network to handle endogenous domain shifts caused by intrinsic imaging mechanisms in cross-domain object detection. 
 </div>
 </div>
 

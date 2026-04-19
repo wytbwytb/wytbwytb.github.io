@@ -26,7 +26,7 @@ I am a PhD student at Beihang University, supervised by <a href='https://xlliu-b
 
 # 📝 Publications 
 
-### 2026
+## 2026
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/AFTER.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -63,7 +63,7 @@ Zhange Zhang, Yuqing Ma, Yulong Wang, **Tianbo Wang**, Jiakai Wang, Simin Li, Xi
 </div>
 </div>
 
-### 2025
+## 2025
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 Oral</div><img src='images/TAE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -112,7 +112,7 @@ Zhange Zhang, Yuqing Ma, Yulong Wang, Shan He, **Tianbo Wang**, Siqi He, Jiakai 
 </div>
 </div>
 
-### Early Publication
+## Early Publication
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/WEN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

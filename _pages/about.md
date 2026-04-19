@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at Beihang University, supervised by <a href='https://xlliu-beihang.github.io/'>Prof. Xianglong Liu</a>. My research focuses on the alignment of foundation models (LLMs/LVLMs), with a specific interest in inference-time interventions such as activation steering and knowledge editing. Anticipating graduation in 2027, I am currently seeking internship opportunities to apply my research to real-world challenges. I am driven by the belief that advanced AI should not only push the boundaries of technology but also bring tangible convenience and positive impact to people's daily lives.
+I am a PhD student at Beihang University, supervised by <a href='https://xlliu-beihang.github.io/'>Prof. Xianglong Liu</a>. My research focuses on the alignment of foundation models (LLMs/LVLMs), with a specific interest in inference-time interventions such as activation steering and knowledge editing. I am currently seeking internship opportunities to apply my research to real-world challenges. I am driven by the belief that advanced AI should not only push the boundaries of technology but also bring tangible convenience and positive impact to people's daily lives.
 
 # 🔥 News
 - *2026.04*: &nbsp;🎉🎉 I am awarded the Bronze Medal in the Artificial Intelligence Track of the Autel Physical AI Challenge.

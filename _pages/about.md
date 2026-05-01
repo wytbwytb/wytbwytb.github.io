@@ -20,6 +20,7 @@ redirect_from:
 I am a PhD student at Beihang University, supervised by <a href='https://xlliu-beihang.github.io/'>Prof. Xianglong Liu</a>. My research focuses on the alignment of foundation models (LLMs/LVLMs), with a specific interest in inference-time interventions such as activation steering and knowledge editing. I am currently seeking internship opportunities to apply my research to real-world challenges. I am driven by the belief that advanced AI should not only push the boundaries of technology but also bring tangible convenience and positive impact to people's daily lives.
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 One first-author paper is accepted by ICML 2026. 
 - *2026.04*: &nbsp;🎉🎉 I am awarded the Bronze Medal in the Artificial Intelligence Track of the Autel Physical AI Challenge.
 - *2026.02*: &nbsp;🎉🎉 One first-author paper is accepted by ICLR 2026. 
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by WWW 2026.
@@ -27,6 +28,18 @@ I am a PhD student at Beihang University, supervised by <a href='https://xlliu-b
 # 📝 Publications 
 
 ## 2026
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/MEDA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MEDA: Medical-Oriented Activation Editing for Hallucination Mitigation in Medical Large Vision-Language Model]()
+
+**Tianbo Wang**, Yuqing Ma, Lingyan Meng, Zhange Zhang, Kewei Liao, Jian Yang, Simin Li, Jinyang Guo, Xianglong Liu
+
+[**Github**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This paper proposes MEDA, the first efficient activation editing paradigm tailored to medical scenarios, which steers LVLMs toward medically grounded expertise for mitigating hallucination. 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/AFTER.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

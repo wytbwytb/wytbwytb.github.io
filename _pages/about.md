@@ -20,7 +20,7 @@ redirect_from:
 I am a PhD student at Beihang University, supervised by <a href='https://xlliu-beihang.github.io/'>Prof. Xianglong Liu</a>. My research focuses on the alignment of foundation models (LLMs/LVLMs), with a specific interest in inference-time interventions such as activation steering and knowledge editing. I am currently seeking internship opportunities to apply my research to real-world challenges. I am driven by the belief that advanced AI should not only push the boundaries of technology but also bring tangible convenience and positive impact to people's daily lives.
 
 # 🔥 News
-- *2026.06*: &nbsp;🎉🎉 I am awarded the Outstanding Academic Fund for Doctoral Students of Beihang University.
+- *2026.06*: &nbsp;🎉🎉 I am awarded the Outstanding Academic Fund for Doctoral Students of Beihang University (Ranked 1st).
 - *2026.05*: &nbsp;🎉🎉 One first-author paper is accepted by ICML 2026. 
 - *2026.04*: &nbsp;🎉🎉 I am awarded the Bronze Medal in the Artificial Intelligence Track of the Autel Physical AI Challenge.
 - *2026.02*: &nbsp;🎉🎉 One first-author paper is accepted by ICLR 2026. 
@@ -154,7 +154,7 @@ Renshuai Tao, Hainan Li, **Tianbo Wang**, Yanlu Wei, Yifu Ding, Bowei Jin, Hongp
 
 
 # 🎖 Honors and Awards
-- *2026.04* Outstanding Academic Fund for Doctoral Students of Beihang University
+- *2026.04* Outstanding Academic Fund for Doctoral Students of Beihang University (Ranked 1st)
 - *2026.04* Bronze Medal of Autel Artificial Intelligence Competition.
 - *2024.10* Outstanding Student Award of Beihang University.
 - *2022.06* Excellent Graduate of Beihang University. 
